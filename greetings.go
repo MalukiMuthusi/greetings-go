@@ -1,9 +1,9 @@
-package greetings
+package main
 
 import (
 	"fmt"
 
-	"github.com/malukimuthusi/hellogo"
+	"github.com/MalukiMuthusi/hellogo"
 )
 
 func main() {

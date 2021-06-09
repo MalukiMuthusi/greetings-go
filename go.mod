@@ -1,3 +1,3 @@
-module github.com/malukimuthusi/greetingsgo
+module github.com/MalukiMuthusi/greetingsgo
 
 go 1.16
